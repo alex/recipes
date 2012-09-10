@@ -1,0 +1,9 @@
+Welcome to Alex's Cookbook!
+===========================
+
+Welcome to my recipe book. These are all the things I know how to cook.
+
+.. toctree::
+    :maxdepth: 2
+
+    reheat/index
