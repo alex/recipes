@@ -7,3 +7,4 @@ Welcome to my recipe book. These are all the things I know how to cook.
     :maxdepth: 2
 
     reheat/index
+    cook/index
