@@ -7,3 +7,5 @@ These are recipes that I know how to cook from scratch.
     :maxdepth: 1
 
     egg-salad
+    mashed-potatoes
+    meat-pie
