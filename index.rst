@@ -10,3 +10,4 @@ reheat.
     cook/index
     reheat/index
     drinks/index
+    desserts/index

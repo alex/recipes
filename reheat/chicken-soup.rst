@@ -1,5 +1,8 @@
 Chicken Soup
 ============
 
-1) Defrost in microwave to half-ice or further.
-2) Place on stove at medium-low heat until bubbling.
+Instructions
+------------
+
+* Defrost in microwave to half-ice or further.
+* Place on stove at medium-low heat until bubbling.

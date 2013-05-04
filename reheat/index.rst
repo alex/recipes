@@ -1,8 +1,6 @@
 Reheating
 =========
 
-These are recipes that I know how to reheat, but not cook from scratch.
-
 .. toctree::
     :maxdepth: 1
 
