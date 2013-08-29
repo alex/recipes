@@ -36,7 +36,7 @@ Instructions
 #. Cook until boiling (it will bubble).
 #. Cover the frying pan.
 #. Turn heat to low, cook for 45-60 minutes, stirring occassionally (every 10-15
-  minutes), should be thick and creamy.
+   minutes), should be thick and creamy.
 #. Stir in Worcestershire sauce (a couple of shakes), and taste.
 #. While cooking on low heat, make :doc:`/cook/mashed-potatoes`.
 #. Turn oven to 425.
