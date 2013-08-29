@@ -6,7 +6,7 @@ Ingredients
 
 * 4 medium Idaho or Yukon Gold potatoes
 * 3 tablespoons butter
-* 1/2 cup hot milk
+* |1/2| cup hot milk
 
 Instructions
 ------------
@@ -19,3 +19,5 @@ Instructions
 #. Rice potatoes.
 #. Add butter and milk.
 #. Mix until smooth.
+
+.. |1/2| unicode:: U+00BD

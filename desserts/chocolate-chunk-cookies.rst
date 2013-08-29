@@ -10,11 +10,11 @@ Ingredients
 
 * 8 ounces butter, room temperature
 * 1 cup packed dark brown sugar
-* 1 / 2 cup granulated sugar
+* |1/2| cup granulated sugar
 * 2 large eggs
 * 2 cups all purpose flower
 * 1 teaspoon salt
-* 3 / 4 teaspoon baking soda
+* |3/4| teaspoon baking soda
 * 1 teaspoon pure vanilla extract
 * 4 cups semisweet chocolate chunks
 
@@ -35,3 +35,6 @@ Instructions
 #. Drop spoonfuls of batter 2 inches apart on baking sheets.
 #. Bake about 12 minutes, until golden brown.
 #. Cool on wire rack.
+
+.. |1/2| unicode:: U+00BD
+.. |3/4| unicode:: U+00BE
