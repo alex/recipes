@@ -11,11 +11,11 @@ Ingredients
 Instructions
 ------------
 
-* Peel potatoes.
-* Cut into 1/16ths or so.
-* Put into pot of water, add some salt.
-* Boil for 20 minutes on high heat.
-* Drain water.
-* Rice potatoes.
-* Add butter and milk.
-* Mix until smooth.
+#. Peel potatoes.
+#. Cut into 1/16ths or so.
+#. Put into pot of water, add some salt.
+#. Boil for 20 minutes on high heat.
+#. Drain water.
+#. Rice potatoes.
+#. Add butter and milk.
+#. Mix until smooth.

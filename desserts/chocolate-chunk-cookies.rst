@@ -21,17 +21,17 @@ Ingredients
 Instructions
 ------------
 
-* Place butter in large bowl, cream at high speed until fluffy.
-* Add sugars and beat until light and fluffy, about 4 minutes, scrape down
-  sides of bowl occasionally.
-* Beat in eggs one at a time, until completely mixed.
-* In a separate bowl mix flour, salt, and baking soda.
-* Add butter mixture at low speed until combined, add vanilla extract.
-* Beat on medium speed, scraping bowl down, until blended.
-* Add chocolate chunks and mix thoroughly.
-* Refrigerate batter until cold, possibly overnight.
-* Preheat oven to 350 degrees.
-* Line baking sheets with parchment paper.
-* Drop spoonfuls of batter 2 inches apart on baking sheets.
-* Bake about 12 minutes, until golden brown.
-* Cool on wire rack.
+#. Place butter in large bowl, cream at high speed until fluffy.
+#. Add sugars and beat until light and fluffy, about 4 minutes, scrape down
+   sides of bowl occasionally.
+#. Beat in eggs one at a time, until completely mixed.
+#. In a separate bowl mix flour, salt, and baking soda.
+#. Add butter mixture at low speed until combined, add vanilla extract.
+#. Beat on medium speed, scraping bowl down, until blended.
+#. Add chocolate chunks and mix thoroughly.
+#. Refrigerate batter until cold, possibly overnight.
+#. Preheat oven to 350 degrees.
+#. Line baking sheets with parchment paper.
+#. Drop spoonfuls of batter 2 inches apart on baking sheets.
+#. Bake about 12 minutes, until golden brown.
+#. Cool on wire rack.
