@@ -5,3 +5,4 @@ Desserts
     :maxdepth: 1
 
     chocolate-chunk-cookies
+    coffee-cake
