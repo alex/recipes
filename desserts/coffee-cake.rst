@@ -28,7 +28,7 @@ Instructions
 #. Scrape the batter into the prepared pan, smooth the top.
 #. Sprink the reserved crumbs over the top.
 #. Bake the cake until golden brown, about 30 minutes.
-#. Cool to lookwarm on a wire rack.
+#. Cool to lukewarm on a wire rack.
 #. Cut into rectangles and serve warm.
 
 .. |1/2| unicode:: U+00BD
