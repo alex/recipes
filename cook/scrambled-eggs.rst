@@ -20,4 +20,4 @@ Instructions
 #. Pour mixture into pan.
 #. Let sit for a minute or so, until it begins to solidify.
 #. Mix it up with a spatula until all the pieces look cooked.
-#. Server on a plate with some salt and pepper.
+#. Serve on a plate with some salt and pepper.
