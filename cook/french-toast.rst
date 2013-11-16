@@ -4,7 +4,7 @@ French Toast
 Ingredients
 -----------
 
-* 2 eggs
+* 1 egg
 * 2 hearty slices of Challah
 * 1 cup of milk
 * Vanilla extract
@@ -13,7 +13,7 @@ Ingredients
 Instructions
 ------------
 
-#. Place eggs, milk, and vanilla extract in a bowl.
+#. Place egg, milk, and vanilla extract in a bowl.
 #. Mix with a whisk ("I can’t just use a fork?" "Truthfully, you can").
 #. Place slides of bread in a glass pyrex container and pour mixture ever.
 #. Ensure the bread is soaked in the mixture, stab the slices with a fork.
