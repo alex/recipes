@@ -6,5 +6,6 @@ Cooking
 
     scrambled-eggs
     egg-salad
+    french-toast
     mashed-potatoes
     meat-pie
