@@ -13,8 +13,8 @@ Ingredients
 Instructions
 ------------
 
-#. Put 3 large teaspoon of cocoa in sauce pan.
-#. Add 1.5 teaspoons of sugar to sauce pan.
+#. Put 1.5 teaspoons of cocoa in sauce pan.
+#. Add 3 rounded teaspoons of sugar to sauce pan.
 #. Shake/stir until mixed well.
 #. Shake whipping cream and add 3 teaspoons to pan.
 #. Turn heat on to low on stove.
