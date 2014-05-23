@@ -9,3 +9,4 @@ Cooking
     french-toast
     mashed-potatoes
     meat-pie
+    tzimis
