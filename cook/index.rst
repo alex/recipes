@@ -7,6 +7,7 @@ Cooking
     scrambled-eggs
     egg-salad
     french-toast
+    potato-salad
     mashed-potatoes
     meat-pie
     tzimis
