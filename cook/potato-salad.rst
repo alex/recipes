@@ -7,7 +7,7 @@ Ingredients
 * 4 small red potatoes
 * 1-2 tablespoons mayonnaise
 * 1-3 teaspoons chopped red onion
-* 2 tablespoons Roasted garlic and parmesan Newman's Salad Dressing
+* 2 tablespoons Roasted garlic and Parmesan Newman's Salad Dressing
 * 2 tablespoon of frozen peas
 
 Instructions

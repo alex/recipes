@@ -5,7 +5,7 @@ Ingredients
 -----------
 
 * 2 eggs
-* Mayonaise
+* Mayonnaise
 * Mustard powder
 * Paprika
 
@@ -16,6 +16,6 @@ Instructions
 #. Heat on stove at high heat for 20 minutes.
 #. Peel eggs.
 #. Slice-and-dice eggs.
-#. Add a glob of mayonaise (one large spoonful, approximately).
+#. Add a glob of mayonnaise (one large spoonful, approximately).
 #. Add a pinch of mustard powder and paprika.
 #. Mix with fork.

@@ -23,6 +23,6 @@ Instructions
 #. When glossy, pour milk into pan.
 #. Stir to blend.
 #. Turn heat up slightly.
-#. Let warm, check temperature ocassionally.
+#. Let warm, check temperature occasionally.
 #. Add whipped cream.
 #. Serve.
