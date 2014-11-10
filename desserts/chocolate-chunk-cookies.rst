@@ -3,7 +3,7 @@ Chocolate Chunk Cookies
 
 .. Note::
 
-    **Source:** http://www.nytimes.com/2002/10/27/magazine/food-the-sweet-spot.html?pagewanted=3
+    **Source:** http://www.nytimes.com/2002/10/27/magazine/food-the-sweet-spot.html?pagewanted=2
 
 Ingredients
 -----------
