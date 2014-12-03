@@ -11,3 +11,4 @@ Cooking
     mashed-potatoes
     meat-pie
     tzimis
+    pancakes
