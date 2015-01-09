@@ -6,3 +6,4 @@ Desserts
 
     chocolate-chunk-cookies
     coffee-cake
+    coffee-frosting
