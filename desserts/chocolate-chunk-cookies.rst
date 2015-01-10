@@ -1,7 +1,7 @@
 Chocolate Chunk Cookies
 =======================
 
-.. Note::
+.. note::
 
     **Source:** http://www.nytimes.com/2002/10/27/magazine/food-the-sweet-spot.html?pagewanted=2
 
