@@ -25,7 +25,7 @@ Instructions
 #. Butter a 9- by 2-inch cake pan (not from the |3/4| cup butter).
 #. Dust the pan with flower, and then knock out any excess.
 #. Mix flour, cocoa, baking soda, and salt with a whisk.
-#. In a seperate bowl, beat together butter and brown sugar until pale and
+#. In a separate bowl, beat together butter and brown sugar until pale and
    fluffy.
 #. Add eggs, one at a time, to the butter and brown sugar, mix after each.
 #. Beat vanilla in.
