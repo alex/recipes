@@ -7,6 +7,7 @@ reheat.
 .. toctree::
     :maxdepth: 2
 
+    appetizers/index
     cook/index
     reheat/index
     drinks/index
