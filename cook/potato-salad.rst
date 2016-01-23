@@ -13,7 +13,7 @@ Ingredients
 Instructions
 ------------
 
-#. Fill medium sized pot half full with water.
+#. Fill medium-sized pot half full with water.
 #. Add salt.
 #. Rinse potatoes in water.
 #. Cut potatoes into bite-sized pieces (approximately quarters).
