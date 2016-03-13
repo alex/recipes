@@ -6,5 +6,6 @@ Desserts
 
     chocolate-cake
     chocolate-chunk-cookies
+    chocolate-pudding-pie
     coffee-cake
     coffee-frosting
