@@ -5,12 +5,12 @@ Ingredients
 -----------
 
 * 1 pie crust
-* |2/3| cup sugar
-* 4 tablespoons unsweeted cocoa powder
-* 2 |2/3| tablespoons cornstarch
+* 1 cup sugar
+* 6 tablespoons unsweeted cocoa powder
+* 4 tablespoons cornstarch
 * Pinch of salt
-* 2 cup whole milk
-* 2 teaspoon vanilla extract
+* 3 cup whole milk
+* 3 teaspoon vanilla extract
 
 Instructions
 ------------
