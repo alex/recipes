@@ -24,5 +24,3 @@ Instructions
 #. Add vanilla extract.
 #. Pour into pie crust.
 #. Chill.
-
-.. |2/3| unicode:: U+2154
