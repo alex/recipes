@@ -23,7 +23,7 @@ Instructions
 
 #. Preheat oven to 350.
 #. Butter a 9- by 2-inch cake pan (not from the |3/4| cup butter).
-#. Dust the pan with flower, and then knock out any excess.
+#. Dust the pan with flour, and then knock out any excess.
 #. Mix flour, cocoa, baking soda, and salt with a whisk.
 #. In a separate bowl, beat together butter and brown sugar until pale and
    fluffy.
