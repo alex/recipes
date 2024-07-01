@@ -6,6 +6,7 @@ Cooking
 
     scrambled-eggs
     egg-salad
+    farfel
     french-toast
     potato-salad
     mashed-potatoes
