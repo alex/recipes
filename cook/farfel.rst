@@ -21,10 +21,10 @@ Ingredients
 Instructions
 ------------
 
-# Fill 1-quart pot half way with water.
-# Add salt and farfel to pot.
-# Put on stove at medium-high heat.
-# Once water begins boiling, lower temperature slightly.
-# Cook until soft, approximately 20 minutes.
+#. Fill 1-quart pot half way with water.
+#. Add salt and farfel to pot.
+#. Put on stove at medium-high heat.
+#. Once water begins boiling, lower temperature slightly.
+#. Cook until soft, approximately 20 minutes.
 
 .. |1/3| unicode:: U+2153
